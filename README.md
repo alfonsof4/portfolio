@@ -5,6 +5,6 @@ This is my first portfolio. Through out the course of the bootcamp projects will
 * HTML
 * CSS
 ## Website
-https://github.com/alfonsof4/portfolio
+https://alfonsof4.github.io/portfolio/
 ## Contribution
 Alfonso Fernandez 
